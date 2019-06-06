@@ -20,7 +20,7 @@
             "timeseriesId" : "com.dynatrace.builtin:service.responsetime",
             "aggregation" : "avg",
             "tags" : "app:front-end,environment:staging",
-            "upperLimit" : 800.0,
+            "upperLimit" : 801.0,
             "lowerLimit" : 600.0
         }
     ]
